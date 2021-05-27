@@ -1,0 +1,24 @@
+C:\Users\Student\source\repos\ConsoleApp72\bin\Debug\netcoreapp3.0\ConsoleApp72.exe
+C:\Users\Student\source\repos\ConsoleApp72\bin\Debug\netcoreapp3.0\ConsoleApp72.deps.json
+C:\Users\Student\source\repos\ConsoleApp72\bin\Debug\netcoreapp3.0\ConsoleApp72.runtimeconfig.json
+C:\Users\Student\source\repos\ConsoleApp72\bin\Debug\netcoreapp3.0\ConsoleApp72.runtimeconfig.dev.json
+C:\Users\Student\source\repos\ConsoleApp72\bin\Debug\netcoreapp3.0\ConsoleApp72.dll
+C:\Users\Student\source\repos\ConsoleApp72\bin\Debug\netcoreapp3.0\ConsoleApp72.pdb
+C:\Users\Student\source\repos\ConsoleApp72\obj\Debug\netcoreapp3.0\ConsoleApp72.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\ConsoleApp72\obj\Debug\netcoreapp3.0\ConsoleApp72.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\ConsoleApp72\obj\Debug\netcoreapp3.0\ConsoleApp72.AssemblyInfo.cs
+C:\Users\Student\source\repos\ConsoleApp72\obj\Debug\netcoreapp3.0\ConsoleApp72.dll
+C:\Users\Student\source\repos\ConsoleApp72\obj\Debug\netcoreapp3.0\ConsoleApp72.pdb
+D:\Desktop\Практика\практическая 2\obj\Debug\netcoreapp3.0\ConsoleApp72.csprojAssemblyReference.cache
+D:\Desktop\Практика\практическая 2\obj\Debug\netcoreapp3.0\ConsoleApp72.AssemblyInfoInputs.cache
+D:\Desktop\Практика\практическая 2\obj\Debug\netcoreapp3.0\ConsoleApp72.AssemblyInfo.cs
+D:\Desktop\Практика\практическая 2\obj\Debug\netcoreapp3.0\ConsoleApp72.csproj.CoreCompileInputs.cache
+D:\Desktop\Практика\практическая 2\obj\Debug\netcoreapp3.0\ConsoleApp72.dll
+D:\Desktop\Практика\практическая 2\obj\Debug\netcoreapp3.0\ConsoleApp72.pdb
+D:\Desktop\Практика\практическая 2\bin\Debug\netcoreapp3.0\ConsoleApp72.exe
+D:\Desktop\Практика\практическая 2\bin\Debug\netcoreapp3.0\ConsoleApp72.deps.json
+D:\Desktop\Практика\практическая 2\bin\Debug\netcoreapp3.0\ConsoleApp72.runtimeconfig.json
+D:\Desktop\Практика\практическая 2\bin\Debug\netcoreapp3.0\ConsoleApp72.runtimeconfig.dev.json
+D:\Desktop\Практика\практическая 2\bin\Debug\netcoreapp3.0\ConsoleApp72.dll
+D:\Desktop\Практика\практическая 2\bin\Debug\netcoreapp3.0\ConsoleApp72.pdb
+D:\Desktop\Практика\практическая 2\obj\Debug\netcoreapp3.0\ConsoleApp72.genruntimeconfig.cache
